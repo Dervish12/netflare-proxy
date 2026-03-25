@@ -1,10 +1,10 @@
-displayName: Pangolin (Badger)
+displayName: Netflare Proxy Engine
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/fosrl/badger
+import: github.com/Dervish12/netflare-proxy
 
-summary: Middleware auth bouncer for Pangolin
+summary: Identity-aware access middleware for Netflare
 
 testData:
     apiBaseUrl: "http://localhost:3001/api/v1"
