@@ -1,4 +1,4 @@
-package badger
+package netflare_proxy
 
 import (
 	"bytes"
