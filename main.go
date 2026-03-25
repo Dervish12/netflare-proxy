@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/fosrl/badger/ips"
-	"github.com/fosrl/badger/version"
+	"github.com/Dervish12/netflare-proxy/ips"
+	"github.com/Dervish12/netflare-proxy/version"
 )
 
 type Config struct {
